@@ -7,6 +7,7 @@
 | Weight | 2 | M3x4 CSK<sup>[2]</sup> | Phillips #2
 | Badge | 2 | M2x4 SCS | H1.5
 | Daughterboard | 4 | M2x4 SCS | H1.5
+
 <sup>[1]</sup>Socket cap screw
 <sup>[2]</sup>Countersunk screw
 
@@ -24,6 +25,7 @@
 | Bottom to top | 8 | M2.5x6 SCS<sup>[1]</sup> | H2
 | Badge | 2 | M2x4 SCS | H1.5
 | Daughterboard | 4 | M2x4 SCS | H1.5
+
 <sup>[1]</sup>Socket cap screw
 
 #### Accessories
