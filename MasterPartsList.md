@@ -16,7 +16,7 @@
 | ---- | --- | --- |
 | Bumpons | 4x adhesive feet | https://www.amazon.com/dp/B06XCNM69B
 | Daughterboard | C2 unified daughterboard | C3 will work as well. Github: https://github.com/ai03-2725/Unified-Daughterboard
-| Gaskets | 0.093" Custom cut poron | Sheets are purchaseable online, but will need to be cut into strips
+| Gaskets | 0.093" Custom cut poron | Sheets are purchaseable online, but will need to be cut into strips. Anything 1.5mm - 2.35mm should work as well
 
 ## Iron165 FE (Founder's Edition)
 #### Screws
