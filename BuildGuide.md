@@ -25,7 +25,7 @@ Before building the Iron180, it is important to take a few precautionary steps. 
 
 You can also refer to the following photo as a color-coded to part list throughout the build.
 
-![Parts](../iron180/Photos/Iron180Photos/parts_mod.jpg)
+![Parts](build_guide_photos/parts_mod.jpg)
 
 ### Screws
 
@@ -53,21 +53,21 @@ Note: *You will not see the function key light up via this method. You will need
 
 Remove the board from the case and use the included cloth to lay the board face down on a flat surface. You will need to remove the eight hex screws (blue underline below) from the back of the board and gently lift the base up, and pull the base out an angle towards the back of the board.
 
-![iron_back](../iron180/Photos/Iron180Photos/iron_back_mod.jpg)
-![remove back](../iron180/Photos/Iron180Photos/remove_back_mod.jpg)
+![iron_back](build_guide_photos/iron_back_mod.jpg)
+![remove back](build_guide_photos/remove_back_mod.jpg)
 
 ## Bumpons, Daughterboard, and Gaskets
 
 Since we are going to move halves of the boards around individually, it is now a good time to attach the bumpons. Remove a bumpon from the adhesive, then attach it to the bottom of the base (red underline below) using one of the four circular matching indents as a guide. Repeat for the other three bumpons.
 
-![bumpon](../iron180/Photos/Iron180Photos/bumpon_mod.jpg)
+![bumpon](build_guide_photos/bumpon_mod.jpg)
 
 Proceed to flip the board face-up, grab the four smaller screws and attach the daughterboard to the case using the four smallest screws (orange underline in parts and diagram below).
 
 Note: *Do not overtighten the screws; turn them just enough to where it starts to give resistance, and the daughterboard no longer jiggles. It is also easier if you attach one end of the cable to the daughterboard before screwing it in. If you happen to install the gaskets prior to installing the daughterboard, you should still be able to access the top screws without disturbing the gasket adhesive.*
 
-![daughterboard](../iron180/Photos/Iron180Photos/daughterboard_mod.jpg)
-![attached daughterboard](../iron180/Photos/Iron180Photos/attached_daughterboard.jpg)
+![daughterboard](build_guide_photos/daughterboard_mod.jpg)
+![attached daughterboard](build_guide_photos/attached_daughterboard.jpg)
 
 Now that your bumpons and daughterboard are attached, we will focus on attaching the gaskets.
 
@@ -75,8 +75,8 @@ We recommend you use a pair of tweezers for this step, but you can get by with u
 
 When applying the gasket, do not pull or add tension to the gasket during application. You want all of your gaskets to have an even feel across the plate while also allowing for compression. The easiest way to do so is by slowly guiding the gasket into place over the length of the track by using tweezers to set the initial gasket and using your finger to follow the track/push down. Also, ensure that the gasket is on the track itself and not pushed along the wall, which may result in twisting/inconsistent compression across the gasket.
 
-![gaskets](../iron180/Photos/Iron180Photos/gaskets.jpg)
-![gasket](../iron180/Photos/Iron180Photos/apply_gasket.jpg)
+![gaskets](build_guide_photos/gaskets.jpg)
+![gasket](build_guide_photos/apply_gasket.jpg)
 
 Proceed to attach all twelve gaskets (yellow underline parts) to the top and bottom of the board and set the top and bottom of the board to the side until the end of the build.
 
@@ -84,13 +84,13 @@ Proceed to attach all twelve gaskets (yellow underline parts) to the top and bot
 
 Now is the time to plan the layout of your 180. Please use the image below to see what options are available. There are lots of guides/variations available on how to modify/attach/lube stabilizers, but we will be using the electrical tape mod (variation of the band-aid mod)for this guide.
 
-![layout](../iron180/Photos/Iron180Photos/layout.png)
+![layout](build_guide_photos/layout.png)
 
 Using a roll of electrical tape, cut out tiny rectangles so that they fit in between the stabilizer mounting points on the top of the PCB. After they have been all attached, spread a thin layer of dielectric grease to each of the rectangles. Proceed to attach all of your lubed stabilizers.
 
 
-![electric mod](../iron180/Photos/Iron180Photos/electric_tape.jpg)
-![stabs](../iron180/Photos/Iron180Photos/stabilizers.jpg)
+![electric mod](build_guide_photos/electric_tape.jpg)
+![stabs](build_guide_photos/stabilizers.jpg)
 
 Videos on lubing stabilizers:
 
@@ -103,16 +103,16 @@ Fun fact: Lbaron prefers a full backspace board, while Vox prefers a split backs
 
 Now that your stabilizers are in place, it is time to insert your switches into the plate. Align the plate on top of your stabilizer and grab one switch to align it over one of the corners on the plate. Using low to moderate force, push the switch directly down so that it seats into the plate fully while making sure the pins of the switch come out the other side of the PCB. Continue to add switches around each corner of the PCB.
 
-![corner switch](../iron180/Photos/Iron180Photos/corner_switch.jpg)
+![corner switch](build_guide_photos/corner_switch.jpg)
 
 Once all four corners are inserted, add switches to the bottom row as well as the full/split backspace area. After that is done, it is a good time to double-check that you chose the right mounting points for your switches to avoid having to desolder/resolder. Take the corresponding caps from the intended keyset and attach them to the top of each switch to verify the correct layout. Once confirmed, insert switches throughout the reset of the plate/PCB, double-checking that both pins for each switch go through the PCB and do not bend.
 
-![mod switch](../iron180/Photos/Iron180Photos/mod_switch.jpg)
-![mod caps](../iron180/Photos/Iron180Photos/mod_caps.jpg)
+![mod switch](build_guide_photos/mod_switch.jpg)
+![mod caps](build_guide_photos/mod_caps.jpg)
 
 Once you have verified your layout, insert the remainder of the switches throughout the plate.
 
-![all switch](../iron180/Photos/Iron180Photos/all_switch.jpg)
+![all switch](build_guide_photos/all_switch.jpg)
 
 ## Soldering
 
@@ -130,14 +130,14 @@ Starting at position #1 (see below), drop the screw in the bottom case screw hol
 
 Next, repeat the above step for the remaining seven screws following the positions **in order** as detailed below.
 
-![all switch](../iron180/Photos/Iron180Photos/iron180_screw_order.png)
+![all switch](build_guide_photos/iron180_screw_order.png)
 
 Moving back to position #1, use your free hand to squeeze the board tight compresing the gaskets all the way. The bottom of the board should be flush or close to flush with the bottom of the top case. Tighten the screw until it is finger tight.  DO NOT OVER TIGHTEN.  Repeat for the remaining seven screws once again following the position placements in order. This ensures even compression and mimimizes stress on screws and threads.
 
 **Note for PC owners:** *The above reassembly process is especially important for Iron series keyboards made from polycarbonate (PC). Polycarbonate is much softer than aluminum, which means extra care must be taken during reassembly.*
 
-![assembled](../iron180/Photos/Iron180Photos/assembled.jpg)
+![assembled](build_guide_photos/assembled.jpg)
 
 Now that your board is assembled, add your favorite keycaps and enjoy your Iron180!
 
-![full_build](../iron180/Photos/Iron180Photos/full_build.jpg)
+![full_build](build_guide_photos/full_build.jpg)
