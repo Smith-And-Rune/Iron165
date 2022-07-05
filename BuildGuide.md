@@ -122,6 +122,8 @@ After soldering all of your switches, now is another good time to test out your 
 
 ## Reassembly
 
+**The reassembly process detailed below is EXTREMELY IMPORTANT for Iron series keyboards made from polycarbonate (PC). Polycarbonate is much softer than aluminum, which means extra care must be taken during reassembly.**
+
 It is now time to start putting everything back together. Ensure that the plate/PCB combo is seated into your Iron correctly. There is a little bit of wiggle room, and you can potentially misalign it before assembling, so please make sure to double-check before assembly. Once the top is aligned over the plate/base, keep a firm grip on the board and flip it over on a soft cloth face down. Have the (8) M2.5x10m case screws handy to screw back into the board.
 
 Starting at position #1 (see below), drop the screw in the bottom case screw hole.  Using your free hand squeeze the board tight next to position #1 to compress the gaskets. This can be accomplished either by pressing down on the base while the board is laying on a flat surface or with both the top and bottom grasped together in one hand. Proceed to screw in the case screw approximately 2mm or four full rotations.
@@ -133,8 +135,6 @@ Next, repeat the above step for the remaining seven screws following the positio
 ![all switch](build_guide_photos/iron180_screw_order.png)
 
 Moving back to position #1, use your free hand to squeeze the board tight compresing the gaskets all the way. The bottom of the board should be flush or close to flush with the bottom of the top case. Tighten the screw until it is finger tight.  DO NOT OVER TIGHTEN.  Repeat for the remaining seven screws once again following the position placements in order. This ensures even compression and mimimizes stress on screws and threads.
-
-**Note for PC owners:** *The above reassembly process is especially important for Iron series keyboards made from polycarbonate (PC). Polycarbonate is much softer than aluminum, which means extra care must be taken during reassembly.*
 
 ![assembled](build_guide_photos/assembled.jpg)
 
