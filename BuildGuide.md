@@ -129,10 +129,10 @@ Starting at position #1 (see below), drop the screw in the bottom case screw hol
 **Note:** *We **strongly** recommend the first option and for this reason do not recommend any Iron series keyboard be rebuilt with keycaps installed, which makes the first option impossible.*
 
 **Uncompressed**
-![uncompressed](build_guide_photos/165_uncompressed.png)
+![uncompressed](build_guide_photos/165_uncompressed.jpg)
 
 **Compressed**
-![compressed](build_guide_photos/165_compressed.png)
+![compressed](build_guide_photos/165_compressed.jpg)
 
 Next, repeat the above step for the remaining seven screws following the positions **in order** as detailed below.
 
