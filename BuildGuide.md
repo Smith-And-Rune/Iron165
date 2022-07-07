@@ -1,7 +1,5 @@
 # Iron Series Build Guide
 
-***Please Note***
-
 This build guide was originally written specifically for the Iron180, however since the build and assembly process is nearly the same, this guide has been updated (and will continue to be updated) to better cover all boards currently in the Iron series.
 
 ***Disclaimer***
@@ -126,9 +124,15 @@ After soldering all of your switches, now is another good time to test out your 
 
 It is now time to start putting everything back together. Ensure that the plate/PCB combo is seated into your Iron correctly. There is a little bit of wiggle room, and you can potentially misalign it before assembling, so please make sure to double-check before assembly. Once the top is aligned over the plate/base, keep a firm grip on the board and flip it over on a soft cloth face down. Have the (8) M2.5x10m case screws handy to screw back into the board.
 
-Starting at position #1 (see below), drop the screw in the bottom case screw hole.  Using your free hand squeeze the board tight next to position #1 to compress the gaskets. This can be accomplished either by pressing down on the base while the board is laying on a flat surface or with both the top and bottom grasped together in one hand. Proceed to screw in the case screw approximately 2mm or four full rotations.
+Starting at position #1 (see below), drop the screw in the bottom case screw hole.  Using your free hand squeeze the board tight next to position #1 to compress the gaskets. This can be accomplished either by pressing down on the base while the board is laying on a flat surface (see below) or with both the top and bottom grasped together in one hand. Proceed to screw in the case screw approximately 2mm or four full rotations.
 
 **Note:** *We **strongly** recommend the first option and for this reason do not recommend any Iron series keyboard be rebuilt with keycaps installed, which makes the first option impossible.*
+
+**Uncompressed**
+![uncompressed](build_guide_photos/165_uncompressed.png)
+
+**Compressed**
+![compressed](build_guide_photos/165_compressed.png)
 
 Next, repeat the above step for the remaining seven screws following the positions **in order** as detailed below.
 
