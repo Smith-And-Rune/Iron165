@@ -40,8 +40,8 @@
 | Part | Quantity | Screw | Bit Size |
 | --- | :---: | :---: | :---: |
 | Bottom to top | 8 | M2.5x10 SCS<sup>[1]</sup> | H2
-| Rune eye | 1 | M2x3 PHS<sup>[3]</sup> | Phillips #1
-| Weight | 3 | M2x3 PHS<sup>[3]</sup> | Phillips #1
+| Rune eye | 1 | M2x3 SCS<sup>[3]</sup> | Phillips #1
+| Weight | 4 | M2x3 SCS<sup>[3]</sup> | Phillips #1
 | Daughterboard | 4 | M2x4 SCS | H1.5
 
 ##### Optional Screws
