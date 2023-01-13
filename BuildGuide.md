@@ -19,7 +19,7 @@ While this guide is meant to give Iron180 owners a comprehensive overview of how
 
 ## Parts check and PCB
 
-Before building the Iron180, it is important to take a few precautionary steps. Before you take anything apart or start building, we recommend that you double-check the [parts list](../Iron180/Iron180PartsList.md) to ensure that nothing is missing.
+Before building the Iron180, it is important to take a few precautionary steps. Before you take anything apart or start building, we recommend that you double-check the [parts list](../../Iron180/Iron180PartsList.md) to ensure that nothing is missing.
 
 You can also refer to the following photo as a color-coded to part list throughout the build.
 
